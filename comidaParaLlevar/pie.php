@@ -1,0 +1,1 @@
+<center>Todos los derechos reservados a DAW</center>
