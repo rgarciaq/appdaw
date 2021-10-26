@@ -34,7 +34,7 @@ echo '</tr>';
 
    foreach($notas as $nota){
 
-       $id=$nota['id'];
+      
 
 
        echo '<tr>';
